@@ -16,7 +16,7 @@ WScript.sleep 2000
 init.SendKeys "^(V)"
 WScript.sleep 6000
 
-init.SendKeys "BOT 3423213252524"
+     init.SendKeys "Mensagem"
 
 WScript.sleep 9000
        init.SendKeys "{ENTER}"
